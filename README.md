@@ -34,7 +34,7 @@ You can clone this repository and execute directly:
 
 ```sh
 git clone https://github.com/yusijin02/linux-monitor.git
-watch -n 0.5 monitor.sh
+watch -n 0.5 bash monitor.sh
 ```
 
 你也可以直接下载这一脚本并直接执行：
@@ -43,7 +43,7 @@ You can also download this script directly and execute:
 
 ```sh
 wget https://github.com/yusijin02/linux-monitor/monitor.sh
-watch -n 0.5 monitor.sh
+watch -n 0.5 bash monitor.sh
 ```
 
 这里的 `0.5` 为刷新时间 (秒)，你可以根据你的需求客制化修改。
