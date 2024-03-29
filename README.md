@@ -34,6 +34,7 @@ You can clone this repository and execute directly:
 
 ```sh
 git clone https://github.com/yusijin02/linux-monitor.git
+cd linux-monitor
 watch -n 0.5 bash monitor.sh
 ```
 
